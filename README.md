@@ -43,14 +43,14 @@ Then you have to made some adjustments in the config file of each camera: in lin
 ## to run the whole system execute the following steps (each in a own terminal):
 
 1) **launch the two cameras**:
-roslaunch pylon_camera pylon_camera_node_multiple_cameras.launch
+`roslaunch pylon_camera pylon_camera_node_multiple_cameras.launch`
 
 2) **run the python scripts for image detection**:
-rosrun camera_vision_opencv test_object_detection_01.py
-rosrun camera_vision_opencv test_object_detection_01.py
+`rosrun camera_vision_opencv test_object_detection_01.py`
+`rosrun camera_vision_opencv test_object_detection_01.py`
 
 3) **run the python gui of all cameras**:
-rosrun camera_vision_opencv GUI_all_cameras_01_02.py
+`rosrun camera_vision_opencv GUI_all_cameras_01_02.py`
 
 
 **This is only a general overview of this project,
