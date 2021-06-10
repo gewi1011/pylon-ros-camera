@@ -7,7 +7,7 @@
 #	Depending on the distance and the camera were the test pattern was detected, a a colored box is shown at this camera on the GUI      #
 #																	     #
 #	created by: Wilhelm Geugis, Hochschule Karlsruhe, Studiengang:FZTB 								     #
-#	E-Mail: gewi1011@hs-karlsruhe.de				         							     #
+#	E-Mail: w.geugis@outlook.com			         							     #
 #	Date: 14.01.2021														     #
 ##############################################################################################################################################
 
