@@ -40,7 +40,7 @@ add the launch file to the folder ~/catkin_ws/src/pylon-ros-camera-devel/pylon_c
 Then you have to made some adjustments in the config file of each camera: in line 13 at the parameter "camera_info_url" should be your own directory of the calibration file (be careful with different ubuntu user names!) 
 
 
-## to run the whole system execute the following steps (each in a own terminal):
+## to run the whole system execute the following steps (each command in a own terminal):
 
 1) **launch the two cameras**:
 `roslaunch pylon_camera pylon_camera_node_multiple_cameras.launch`
