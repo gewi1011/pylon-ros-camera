@@ -53,5 +53,5 @@ Then you have to made some adjustments in the config file of each camera: in lin
 `rosrun camera_vision_opencv GUI_all_cameras_01_02.py`
 
 
-**This is only a general overview of this project,
-if you have any question feel free to contact me!**
+This is only a general overview of this project,
+if you have any question feel free to contact me!
