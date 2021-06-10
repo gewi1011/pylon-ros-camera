@@ -12,7 +12,7 @@
 #	Also the distance between the test pattern and the camera could be computed with these imformations. 				                     #  	
 #															         	                                                                     #
 #	created by: Wilhelm Geugis, Hochschule Karlsruhe, Studiengang:FZTB 						                                    		     #
-#	E-Mail: gewi1011@hs-karlsruhe.de				         							                                                     #
+#	E-Mail: w.geugis@outlook.com				         							                                                     #
 #	Date: 14.01.2021														                                                                 #
 ##############################################################################################################################################
 
