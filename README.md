@@ -1,6 +1,6 @@
 # Commissioning of driver assistance cameras and implementation of object detection under ROS and OpenCV
 
-As part of my bachelor thesis on camera-based driver assistance systems, two mono cameras have been attached to a measurement vehicle. The two individual mono cameras (Basler daA1600-60uc (USB 3.0)) should read out with the pylon-ros-camera driver in the open source environment ROS and their data visualised. The individual frames of the cameras can then be further processed with the help of OpenCV. In this project the cameras should recognise a pattern on a test sign and determine from this the distance of the test sign to the vehicle.
+In this project for camera-based driver assistance systems, two mono cameras have been attached to a measurement vehicle. The two individual mono cameras (Basler daA1600-60uc (USB 3.0)) should read out with the pylon-ros-camera driver in the open source environment ROS and their data visualised. The individual frames of the cameras can then be further processed with the help of OpenCV. In this project the cameras should recognise a pattern on a test sign and determine from this the distance of the test sign to the vehicle.
 
 ## necessary files and programs to run the system:
 
